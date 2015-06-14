@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/app/!svn/ver/25252/%E7%9A%87%E5%BA%ADV%E9%85%92%E5%BA%97/trunk/ios/Controller/%E6%9B%B4%E5%A4%9A/%E7%9A%87%E5%BA%ADV%E5%BE%AE%E5%8D%9A/SinaWeiBoSDK
+END
+WBLogInAlertView.m
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/app/!svn/ver/10128/%E7%9A%87%E5%BA%ADV%E9%85%92%E5%BA%97/trunk/ios/Controller/%E6%9B%B4%E5%A4%9A/%E7%9A%87%E5%BA%ADV%E5%BE%AE%E5%8D%9A/SinaWeiBoSDK/WBLogInAlertView.m
+END
+WBSDKGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/app/!svn/ver/10128/%E7%9A%87%E5%BA%ADV%E9%85%92%E5%BA%97/trunk/ios/Controller/%E6%9B%B4%E5%A4%9A/%E7%9A%87%E5%BA%ADV%E5%BE%AE%E5%8D%9A/SinaWeiBoSDK/WBSDKGlobal.h
+END
+WBAuthorizeWebView.h
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/app/!svn/ver/10128/%E7%9A%87%E5%BA%ADV%E9%85%92%E5%BA%97/trunk/ios/Controller/%E6%9B%B4%E5%A4%9A/%E7%9A%87%E5%BA%ADV%E5%BE%AE%E5%8D%9A/SinaWeiBoSDK/WBAuthorizeWebView.h
+END
+WBEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/app/!svn/ver/13690/%E7%9A%87%E5%BA%ADV%E9%85%92%E5%BA%97/trunk/ios/Controller/%E6%9B%B4%E5%A4%9A/%E7%9A%87%E5%BA%ADV%E5%BE%AE%E5%8D%9A/SinaWeiBoSDK/WBEngine.h
+END
+WBAuthorizeWebView.m
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/app/!svn/ver/25252/%E7%9A%87%E5%BA%ADV%E9%85%92%E5%BA%97/trunk/ios/Controller/%E6%9B%B4%E5%A4%9A/%E7%9A%87%E5%BA%ADV%E5%BE%AE%E5%8D%9A/SinaWeiBoSDK/WBAuthorizeWebView.m
+END
+WBEngine.m
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/app/!svn/ver/13690/%E7%9A%87%E5%BA%ADV%E9%85%92%E5%BA%97/trunk/ios/Controller/%E6%9B%B4%E5%A4%9A/%E7%9A%87%E5%BA%ADV%E5%BE%AE%E5%8D%9A/SinaWeiBoSDK/WBEngine.m
+END
+WBAuthorize.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/app/!svn/ver/10128/%E7%9A%87%E5%BA%ADV%E9%85%92%E5%BA%97/trunk/ios/Controller/%E6%9B%B4%E5%A4%9A/%E7%9A%87%E5%BA%ADV%E5%BE%AE%E5%8D%9A/SinaWeiBoSDK/WBAuthorize.h
+END
+WBUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/app/!svn/ver/10128/%E7%9A%87%E5%BA%ADV%E9%85%92%E5%BA%97/trunk/ios/Controller/%E6%9B%B4%E5%A4%9A/%E7%9A%87%E5%BA%ADV%E5%BE%AE%E5%8D%9A/SinaWeiBoSDK/WBUtil.h
+END
+WBAuthorize.m
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/app/!svn/ver/10128/%E7%9A%87%E5%BA%ADV%E9%85%92%E5%BA%97/trunk/ios/Controller/%E6%9B%B4%E5%A4%9A/%E7%9A%87%E5%BA%ADV%E5%BE%AE%E5%8D%9A/SinaWeiBoSDK/WBAuthorize.m
+END
+WBUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/app/!svn/ver/10128/%E7%9A%87%E5%BA%ADV%E9%85%92%E5%BA%97/trunk/ios/Controller/%E6%9B%B4%E5%A4%9A/%E7%9A%87%E5%BA%ADV%E5%BE%AE%E5%8D%9A/SinaWeiBoSDK/WBUtil.m
+END
+WBSendView.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/app/!svn/ver/13779/%E7%9A%87%E5%BA%ADV%E9%85%92%E5%BA%97/trunk/ios/Controller/%E6%9B%B4%E5%A4%9A/%E7%9A%87%E5%BA%ADV%E5%BE%AE%E5%8D%9A/SinaWeiBoSDK/WBSendView.h
+END
+WBRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/app/!svn/ver/10128/%E7%9A%87%E5%BA%ADV%E9%85%92%E5%BA%97/trunk/ios/Controller/%E6%9B%B4%E5%A4%9A/%E7%9A%87%E5%BA%ADV%E5%BE%AE%E5%8D%9A/SinaWeiBoSDK/WBRequest.h
+END
+WBSendView.m
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/app/!svn/ver/25252/%E7%9A%87%E5%BA%ADV%E9%85%92%E5%BA%97/trunk/ios/Controller/%E6%9B%B4%E5%A4%9A/%E7%9A%87%E5%BA%ADV%E5%BE%AE%E5%8D%9A/SinaWeiBoSDK/WBSendView.m
+END
+WBLogInAlertView.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/app/!svn/ver/10128/%E7%9A%87%E5%BA%ADV%E9%85%92%E5%BA%97/trunk/ios/Controller/%E6%9B%B4%E5%A4%9A/%E7%9A%87%E5%BA%ADV%E5%BE%AE%E5%8D%9A/SinaWeiBoSDK/WBLogInAlertView.h
+END
+WBRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/app/!svn/ver/10249/%E7%9A%87%E5%BA%ADV%E9%85%92%E5%BA%97/trunk/ios/Controller/%E6%9B%B4%E5%A4%9A/%E7%9A%87%E5%BA%ADV%E5%BE%AE%E5%8D%9A/SinaWeiBoSDK/WBRequest.m
+END
